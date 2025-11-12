@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Meu nome é Raphael Oliveira de Araujo👋!  sou um estudante da PUC Minas!</h2>
+<h2 align="left">Olá, Meu nome é Raphael Oliveira de Araujo👋  sou um estudante da PUC Minas!</h2>
 
 ###
 
