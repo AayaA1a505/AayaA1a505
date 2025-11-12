@@ -56,3 +56,10 @@
 </div>
 
 ###
+
+## Entre em contato comigo!
+**Email:** [RaphaelOAraujo@outlook.com](mailto:RaphaelOAraujo@outlook.com)  
+**LinkedIn:** [Raphael Oliveira](https://www.linkedin.com/in/raphael-oliveira-b09007268)
+
+
+###
